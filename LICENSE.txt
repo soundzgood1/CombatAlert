@@ -1,0 +1,22 @@
+All Rights Reserved
+
+Copyright (c) 2026 Soundz
+
+This addon and all of its source code, assets, and documentation are
+provided for personal use with World of Warcraft only.
+
+Permission is NOT granted to copy, modify, merge, publish, distribute,
+sublicense, or sell copies of this addon, in whole or in part, without
+prior written permission from the author.
+
+You may:
+  - Download and use this addon for personal, non-commercial gameplay.
+
+You may not, without prior written permission from the author:
+  - Redistribute this addon or modified versions of it on any platform.
+  - Repackage this addon as part of another addon or compilation.
+  - Use the source code, assets, or text in another project.
+
+For permissions or questions, contact the author:
+  Twitch: twitch.tv/soundzgood
+  Discord: soundz1
