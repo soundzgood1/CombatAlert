@@ -1,10 +1,11 @@
-## Interface: 120000
+## Interface: 120105
 ## Title: CombatAlert
 ## Notes: Displays customizable text when entering or leaving combat.
 ## Author: Soundz
-## Version: 1.0
+## Version: 1.1
 ## X-License: All Rights Reserved
 ## X-Website: https://twitch.tv/soundzgood
+## X-Curse-Project-ID: 1595969
 ## DefaultState: Enabled
 ## SavedVariables: CombatAlertDB
 ## OptionalDeps: LibSharedMedia-3.0
